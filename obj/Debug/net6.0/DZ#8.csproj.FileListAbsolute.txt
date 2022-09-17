@@ -1,0 +1,15 @@
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\bin\Debug\net6.0\DZ#8.exe
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\bin\Debug\net6.0\DZ#8.deps.json
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\bin\Debug\net6.0\DZ#8.runtimeconfig.json
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\bin\Debug\net6.0\DZ#8.dll
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\bin\Debug\net6.0\DZ#8.pdb
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.csproj.AssemblyReference.cache
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.AssemblyInfoInputs.cache
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.AssemblyInfo.cs
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.csproj.CoreCompileInputs.cache
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.dll
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\refint\DZ#8.dll
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.pdb
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\DZ#8.genruntimeconfig.cache
+F:\учеба 2022\Языки програмирования\Семинар№8\DZ#8\obj\Debug\net6.0\ref\DZ#8.dll
